@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    color: #56a5eb;
+}
+
+.ctgr {
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    font-size: x-large;
+}
+
+.ctgr>a>input {
+    font-size: x-large;
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    font-family: serif;
+    font-weight: 900px;
+    border: 2px solid #56a5eb;
+    border-radius: 10px;
+}
+
+.ctgr>a>input:hover {
+    color: White;
+    background-color: chocolate;
+    cursor: pointer;
+}
